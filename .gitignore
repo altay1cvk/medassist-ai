@@ -8,3 +8,6 @@ data/faiss_index/
 data/documents/*.pdf
 *.egg-info/
 .DS_Store
+data/documents/*.bak
+data/documents/test*
+data/faiss_index/
